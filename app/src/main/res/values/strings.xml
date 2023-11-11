@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="Heading">Number Guessing Game!</string>
+    <string name="try_and_guess_a_random_number_between_1_to_100">Try and guess a random number between 1 to 100</string>
+    <string name="you_have_10_attempts_to_guess_the_right_number">You have 10 attempts to guess the right number</string>
+    <string name="guess_a_number">Guess a Number</string>
+    <string name="enter_the_guess_number">Enter the guess number</string>
+    <string name="submit_guess">Submit Guess</string>
+    <string name="guess_remaining">Guess Remaining :</string>
+    <string name="congratulations_you_win">Congratulations,You Win!</string>
+</resources>
